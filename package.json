@@ -12,5 +12,9 @@
   ],
   "author": "Warren Leyes",
   "license": "ISC",
-  "description": "Test CI/CD pipeline app"
+  "description": "Test CI/CD pipeline app",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.17.0"
+  }
 }
